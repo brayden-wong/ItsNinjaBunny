@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there! My name is Brayden Wong. I am currently a 2nd year at Neumont College of Computer Science majoring in Software Engineering. 😀
 
-<!--
-**ItsNinjaBunny/ItsNinjaBunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills:
 
-Here are some ideas to get you started:
+- Javascript
+- Typescript
+- Nodejs
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- MySQL
+- MongoDB
+
+Current Projects
+
+- RetroGameExchange API working towards building a UX design
