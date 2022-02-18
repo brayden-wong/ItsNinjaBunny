@@ -12,4 +12,4 @@ Skills:
 
 Current Projects
 
-- RetroGameExchange API working towards building a UX design
+- RetroGameExchange API (currently working towards building a UX design)
