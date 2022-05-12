@@ -3,13 +3,11 @@ Hi there! My name is Brayden Wong. I am currently a 2nd year at Neumont College 
 Skills:
 
 - Javascript
-- Typescript
 - Nodejs
 - Java
+- Swift
+- Distributed Systems
 
 - MySQL
+- SQL
 - MongoDB
-
-Current Projects
-
-- RetroGameExchange API (currently working towards building a UX design)
