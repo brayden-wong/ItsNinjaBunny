@@ -2,11 +2,11 @@ Hi there! My name is Brayden Wong. I am currently a 2nd year at Neumont College 
 
 Skills:
 
+- Typescript
 - Javascript
 - Nodejs
-- Java
-- Swift
 - Distributed Systems
+- Java
 
 - MySQL
 - SQL
