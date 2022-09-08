@@ -4,10 +4,10 @@ Skills:
 
 - Typescript
 - Javascript
-- Nodejs
+- NodeJS
+- NestJS
 - Distributed Systems
 - Java
-
+- PostgreSQL
 - MySQL
-- SQL
 - MongoDB
