@@ -3,10 +3,8 @@ Hi there! My name is Brayden Wong. I am currently a 3rd year at Neumont College 
 Skills:
 
 - Typescript
-- Javascript
-- NodeJS
 - NestJS
-- Distributed Systems
+- Prisma
 - Java
 - PostgreSQL
 - MySQL
