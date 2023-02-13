@@ -2,10 +2,23 @@ Hi there! My name is Brayden Wong. I am currently a Senior at Neumont College of
 
 Skills:
 
+Technologies
 - Typescript
+- Next.js
 - NestJS
 - Prisma
-- Java
+
+Styling
+- Tailwindcss
+
+Databases
 - PostgreSQL
 - MySQL
 - MongoDB
+- Redis
+
+Serverless
+- Vercel
+- Railway
+- PlanetScale
+- AWS
