@@ -1,7 +1,5 @@
 Hi there! My name is Brayden Wong. I am currently a Senior at Neumont College of Computer Science majoring in Software Engineering. 😀
 
-Skills:
-
 Technologies
 - Typescript
 - Next.js
@@ -16,6 +14,9 @@ Databases
 - MySQL
 - MongoDB
 - Redis
+
+Authentication
+- Next-Auth
 
 Serverless
 - Vercel
